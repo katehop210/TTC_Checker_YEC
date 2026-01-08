@@ -18,7 +18,7 @@ import java.io.*;
 public class Main {
     private static ArrayList<Line> lines = new ArrayList<>();
     public static void main(String[] args) {
-        String file = "C:\\Users\\Katelyn Hopkins\\Downloads\\Untitled form.csv\\Untitled form.csv";
+        String file = "";
         System.out.println("Hello! Welcome to the TTC delay checker");
         System.out.println("Please make sure to add all the lines needed and update the csv file.");
         while(true){
